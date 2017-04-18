@@ -1,0 +1,23 @@
+{
+  "name": "rs-react-native-responsive-images",
+  "version": "1.0.0",
+  "description": "responsive image component for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravindravmd/rs-react-native-responsive-images"
+  },
+  "keywords": [
+    "React-Native"
+  ],
+  "author": "Ravindra S <sravindravmd@gmail.com> (https://pixlrBrain.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravindravmd/rs-react-native-responsive-images/issues"
+  },
+  "homepage": "https://github.com/sravindravmd/rs-react-native-responsive-images#readme"
+}

@@ -6,18 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sravindravmd/rs-react-native-responsive-images"
-  },
   "keywords": [
-    "React-Native"
+    "React-Native Responsive image"
   ],
   "author": "Ravindra S <sravindravmd@gmail.com> (https://pixlrBrain.com)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sravindravmd/rs-react-native-responsive-images/issues"
-  },
-  "homepage": "https://github.com/sravindravmd/rs-react-native-responsive-images#readme"
+  "license": "ISC"
 }
